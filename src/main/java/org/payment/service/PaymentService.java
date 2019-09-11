@@ -64,7 +64,7 @@ public class PaymentService {
      * The format of the file must be
      * one or more lines with Currency Code Amount.
      * @param input User input.
-     * return List<Payment> This return list of payments.
+     * @return List<Payment> This return list of payments.
      */
     public List<Payment> processFileInput(String input) {
         List<Payment> payments = new ArrayList<>();
