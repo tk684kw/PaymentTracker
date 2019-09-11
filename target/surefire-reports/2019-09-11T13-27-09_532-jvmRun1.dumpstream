@@ -1,0 +1,104 @@
+# Created at 2019-09-11T13:27:31.509
+[SUREFIRE] std/in stream corrupted
+java.io.IOException: Command NOOP unexpectedly read Void data with length 4.
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:130)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-09-11T13:27:59.256
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.257
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.262
+Unexpected IOException: 5,1,org.payment.PaymentServiceTest,testCorrectFileInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.397
+Unexpected IOException: 6,1,org.payment.PaymentServiceTest,testCorrectFileInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.398
+Unexpected IOException: 5,1,org.payment.PaymentServiceTest,testCorrectTextInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.400
+Unexpected IOException: 6,1,org.payment.PaymentServiceTest,testCorrectTextInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.401
+Unexpected IOException: 5,1,org.payment.PaymentServiceTest,testWrongFileInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.401
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.402
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.403
+Unexpected IOException: 6,1,org.payment.PaymentServiceTest,testWrongFileInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.404
+Unexpected IOException: 5,1,org.payment.PaymentServiceTest,testWrongTextInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.405
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.405
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.406
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.406
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.407
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.407
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.408
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.408
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.409
+Unexpected IOException with stream: Currency may be any uppercase 3 letter code, such as USD, HKD, RMB, NZD, GBP etc.
+
+
+# Created at 2019-09-11T13:27:59.409
+Unexpected IOException with stream: Enter must consist currency, space and amount, such as USD 100, USD -100 etc.
+
+
+# Created at 2019-09-11T13:27:59.410
+Unexpected IOException: 6,1,org.payment.PaymentServiceTest,testWrongTextInput(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.411
+Unexpected IOException: 5,1,org.payment.PaymentServiceTest,testXExit(org.payment.PaymentServiceTest),null,null,null
+
+
+# Created at 2019-09-11T13:27:59.414
+Unexpected IOException with stream: 2019-09-11 13:27:59.413  INFO 12208 --- [       Thread-2] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+
+
