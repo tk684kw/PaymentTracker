@@ -67,7 +67,7 @@ public class PaymentService {
      * return List<Payment> This return list of payments.
      */
     public List<Payment> processFileInput(String input) {
-        List<Payment> payments = payments = new ArrayList<>();
+        List<Payment> payments = new ArrayList<>();
 
         try {
             File file = new File(input);
